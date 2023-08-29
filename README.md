@@ -18,7 +18,7 @@
 ## Setup and Compilation:
 1. Clone the repository to your local machine:
     ```bash
-    git clone [<repository_url>](https://github.com/ujjwalguptavirtuoso/CaeserCipherTool.git)
+    git clone https://github.com/ujjwalguptavirtuoso/CaeserCipherTool.git
     ```
 2. Navigate to the project directory:
     ```bash
